@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos_linux_debian"
+version = "0.1.0"
+edition = "2021"
+description = "Debian compatibility layer, dpkg control parsing, and apt repository verification"
+
+[lib]
+name = "sigmaos_linux_debian"
+path = "src/lib.rs"
