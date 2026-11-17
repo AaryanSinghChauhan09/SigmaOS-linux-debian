@@ -3,7 +3,7 @@ name = "SigmaOS-linux-debian"
 tier = 3
 stability = "stable"
 language = "rust"
-description = "Debian compatibility layer, dpkg control parsing, and apt repository verification"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
